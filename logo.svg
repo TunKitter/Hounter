@@ -1,0 +1,39 @@
+<svg width="38" height="36" viewBox="0 0 38 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="38" height="36" fill="#1E1E1E"/>
+<g id="template 1" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="3747" transform="translate(-91 -45)" fill="white"/>
+<g id="Color Blur">
+<g id="Vector" opacity="0.3" filter="url(#filter0_f_0_1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M207.209 110.001C196.173 144.669 170.914 171.19 148.037 199.462C128.326 223.821 107.32 245.535 82.2918 264.373C54.4137 285.356 28.1223 314.558 -6.72681 315.946C-41.6885 317.339 -71.0493 291.407 -99.9325 271.634C-127.089 253.044 -146.425 227.427 -169.834 204.286C-201.874 172.612 -257.167 154.642 -263.434 110.001C-269.493 66.8452 -225.511 33.3497 -198.647 -0.939335C-174.838 -31.3288 -148.262 -58.2453 -115.562 -78.7378C-81.9854 -99.7805 -45.9184 -126.981 -6.72679 -121.215C32.4007 -115.46 49.0378 -65.5008 85.0883 -49.2213C127.116 -30.2424 189.755 -56.4202 217.836 -19.8083C244.703 15.222 220.604 67.919 207.209 110.001Z" fill="#82F7FF"/>
+</g>
+<g id="Vector_2" opacity="0.3" filter="url(#filter1_f_0_1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M454.209 25.0007C443.173 59.669 417.914 86.1902 395.037 114.462C375.326 138.821 354.32 160.535 329.292 179.373C301.414 200.356 275.122 229.558 240.273 230.946C205.311 232.339 175.951 206.407 147.067 186.634C119.911 168.044 100.575 142.427 77.1656 119.286C45.1264 87.6125 -10.1666 69.6417 -16.4339 25.0007C-22.4927 -18.1548 21.4887 -51.6503 48.3531 -85.9393C72.1624 -116.329 98.7384 -143.245 131.438 -163.738C165.015 -184.781 201.082 -211.981 240.273 -206.215C279.401 -200.46 296.038 -150.501 332.088 -134.221C374.116 -115.242 436.755 -141.42 464.836 -104.808C491.703 -69.778 467.604 -17.081 454.209 25.0007Z" fill="#82FFD2"/>
+</g>
+</g>
+<g id="Hero Section">
+<g id="Navbar">
+<g id="Logo">
+<g id="logo">
+<path id="Rectangle 8" d="M0.231445 4C0.231445 1.79086 2.02231 0 4.23145 0H28.9289C31.138 0 32.9289 1.79086 32.9289 4V8C32.9289 21.2548 22.1837 32 8.92886 32H4.23145C2.02231 32 0.231445 30.2091 0.231445 28V4Z" fill="#F59E0B"/>
+<path id="Rectangle 9" d="M4.31836 8C4.31836 5.79086 6.10922 4 8.31836 4H33.0158C35.2249 4 37.0158 5.79086 37.0158 8V12C37.0158 25.2548 26.2706 36 13.0158 36H8.31836C6.10922 36 4.31836 34.2091 4.31836 32V8Z" fill="#4BE4C9"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-384" y="-242" width="734" height="678" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="60" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_f_0_1" x="-137" y="-327" width="734" height="678" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="60" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="3747" fill="white" transform="translate(-91 -45)"/>
+</clipPath>
+</defs>
+</svg>
