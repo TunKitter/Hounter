@@ -16,31 +16,85 @@
             <span class="name-logo">Hounter</span>
         </div>
         <div class="list-nav center-me">
-            <a href="#" class="list-nav-item">About us</a>
-            <a href="#" class="list-nav-item">Article</a>
-            <a href="#" class="list-nav-item">Property</a>
-            <a href="#" class="list-nav-item sign-up-nav">Sign Up!</a>
+            <a href="#" class="list-nav-item radius-me">About us</a>
+            <a href="#" class="list-nav-item radius-me">Article</a>
+            <a href="#" class="list-nav-item radius-me">Property</a>
+            <a href="#" class="list-nav-item radius-me sign-up-nav">Sign Up!</a>
         </div>
     </nav>
 
     <header class="banner center-me">
+        <div class="arrow">
+            <div class="left-arrow">
+                <img src="./assets/images/left-arrow.png" alt="Left arrow" onclick="changeBanner('banner.png')">
+            </div>
+            <div class="right-arrow">
+                <img src="./assets/images/right-arrow.png" alt="Left arrow"
+                    onclick="changeBanner('house-achievement.png','695px')">
+            </div>
+        </div>
         <div class="left-banner center-me">
-            <div class="content">
+            <div class="content-left-banner">
                 <h2 class="title-banner-left">find the place to<br> live <span>your dreams</span><br> easily here
                 </h2>
-                <p class="center-me">Everything you need about finding your place to live will be here,<br>where it will
+                <p class="center-me slogan-title-banner-left">Everything you need about finding your place to live will
+                    be here,<br>where it will
                     be
                     easier for you</p>
             </div>
+            <div class="input-location-wrapper center-me radius-me">
+                <div class="left-input-location center-me">
+                    <img src="./assets/images/location.svg" alt="Location icon" class="location-icon">
+                    <input type="text" class="input-location" placeholder="Search for the location you want!">
+                </div>
+                <div class="right-input-location">
+                    <button class="right-input-location-button center-me radius-me">Search <img
+                            src="./assets/images/arrow-right.svg" alt=""></button>
+                </div>
+            </div>
+            <div class="banner-partner center-me">
+                <h3 class="title-partner">Our Partnership</h3>
+                <div class="partner-list center-me">
+                    <img src="./assets/images/traveloka.png" alt="traveloka">
+                    <img src="./assets/images/ticket.com.png" alt="ticket.com">
+                    <img src="./assets/images/airbnb.png" alt="airbnb">
+                    <img src="./assets/images/tripadvisor.png" alt="tripadvisor">
+                </div>
+            </div>
         </div>
-        <div class=" right-banner">
+        <div class="right-banner">
             <img src="./assets/images/banner.png" alt="Banner" class="banner-image">
-            sdasdadas
-            pda
-            <p>dasdasdas</p>
+            <div class="center-me banner-achievements">
+                <div class="achievement-item center-me radius-me" style="--width:20.5em">
+                    <div class="achievement-item-image center-me">
+                        <img src="./assets/images/people1.jpg" alt="People 1" style="--margin-left:0px"
+                            class="achievement-item-image-item">
+                        <img src="./assets/images/people2.jpg" alt="People 2" style="--margin-left:50px"
+                            class="achievement-item-image-item">
+                        <img src="./assets/images/people3.jpg" alt="People 3" style="--margin-left:100px"
+                            class="achievement-item-image-item">
+                    </div>
+                    <div class="achievement-item-info">
+                        <h4 class="achievement-item-title">1K+ People</h4>
+                        <p class="achievement-item-slogan">Successfully Getting Home</p>
+                    </div>
+                </div>
+                <div class="achievement-item center-me radius-me" style="--width:12.565em">
+                    <div class="achievement-item-image center-me">
+                        <img src="./assets/images/house-achievement.png" alt="People 1"
+                            style="--margin-left:50px;width: 50px;height: 50px;border-radius: 24px;"
+                            class="achievement-item-image-item">
+                    </div>
+                    <div class="achievement-item-info">
+                        <h4 class="achievement-item-title">56 Houses</h4>
+                        <p class="achievement-item-slogan">Sold Monthly</p>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </header>
-
+    <script src="./assets/scripts/main.js"></script>
 </body>
 
 </html>
